@@ -92,9 +92,9 @@ Sistema inspirado no **Ifood**, desenvolvimento dos protótipos de tela em HTML,
 <h2> Entre em contato comigo </h2>
 </div>
 
-<div>
+<div align="center">
 
-  Abaixo seguem os link's para você me encontrar, tirar dúvidas, fazer networking ou convite para algum projeto ..
+Abaixo seguem os link's para você me encontrar, tirar dúvidas, fazer networking ou convite para algum projeto ..
 
 </div>
 
