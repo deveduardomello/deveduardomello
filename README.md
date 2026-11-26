@@ -107,11 +107,3 @@ Abaixo seguem os link's para você me encontrar, tirar dúvidas, fazer networkin
 [![Whatsapp](https://img.shields.io/badge/Whatsapp-000?style=for-the-badge)](https://wa.me/5521998630774)
 
 </div>
-
-<div align="center">
-  <h2>🐍 Minhas Contribuições 🐍</h2>
-
-  ![snake animation](https://github.com/deveduardomello/deveduardomello/blob/output/github-contribution-grid-snake2.svg)
-  
-  <br/><br/><br/>
-</div>
